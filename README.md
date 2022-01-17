@@ -8,8 +8,6 @@ Hi, I'm Connor! I'm an ex UI desinger and developemnt freelancer in Brisbane, Au
   Typescript
   Microservice Architecture
   
-🌱 Reach Out
+<h2>🌱 Reach Out</h2>
 
-<h2>Documentation</h2>
-<div align="center">
-<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="Website"></a>
