@@ -12,5 +12,5 @@ Hi, I'm Connor! I'm an ex UI desinger and developemnt freelancer in Brisbane, Au
   
 <h2>🌱 Reach Out</h2>
 
-<a href="/docs/" title="Website"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="Website"></a>
-<a href="/docs/" title="Linkedin"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="Website"></a>
+<a href="/docs/" title="Website"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website"></a>
+<a href="/docs/" title="Linkedin"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge" alt="Website"></a>
