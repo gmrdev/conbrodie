@@ -8,6 +8,7 @@ Hi, I'm Connor! I'm an ex UI desinger and development freelancer in Brisbane, Au
   <li>ASP.NET</li>
   <li>Typescript</li>
   <li>Microservices</li>
+  <li>Blockchain</li>
 </ul>
   
 ### Reach out 📮
