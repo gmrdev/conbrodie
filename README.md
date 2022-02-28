@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Connor! I'm an ex UI desinger and development freelancer in Brisbane, Australia. I'm also a final year computer science student at QUT.
+Hi, I'm Connor! I'm a former UI desinger and development freelancer in Brisbane, Australia. I'm also a final year computer science student at QUT.
 
 ### I'm currently learning 🧑‍🎓
 
