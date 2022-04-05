@@ -2,10 +2,6 @@
 
 I'm Connor! I'm a former UI desinger and development freelancer in Brisbane, Australia. I'm also a final year computer science student at QUT.
 
-### I'm currently learning 🧑‍🎓
-
-ASP.NET, Typescript, Microservices, Blockchain
-
 ### Reach out 📮
 
 <a href="https://www.connorbrodie.dev" title="Website"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website"></a>
